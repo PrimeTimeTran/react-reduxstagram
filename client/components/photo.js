@@ -1,10 +1,10 @@
-import React from 'react';
-import { Link } from 'react-router';
-import CSSTransitionGroup from 'react-addons-css-transition-group';
+import React, { Component } from 'react'
+import { Link } from 'react-router'
+import CSSTransitionGroup from 'react-addons-css-transition-group'
 
-const Photo = React.createClass({
+export default class Photo extends Component {
   render() {
-    const { post, i, comments } = this.props;
+    const { post, i, comments } = this.props
 
     return (
       <figure className='grid-figure'>
@@ -21,7 +21,7 @@ const Photo = React.createClass({
         <figcaption>
           <p>{post.caption}</p>
           <div className='control-buttons'>
-            <button onClick={this.props.increment.bind(null, i)} className='likes'>&hearts; {post.likes}</button>
+            <button onClick={this.props.increment.bind(null, i)} className='likes'>❤️ {post.likes}</button>
             <Link className='button' to={`/view/${post.code}`}>
               <span className='comment-count'>
               <span className='speech-bubble'></span>
@@ -33,6 +33,4 @@ const Photo = React.createClass({
       </figure>
     )
   }
-})
-
-export default Photo;
+}

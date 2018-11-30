@@ -1,9 +1,9 @@
-import React from 'react';
-import Photo from './photo'
+import React, { Component } from 'react'
+import Photo from './Photo'
 
 import Comments from './comments'
 
-const Single = React.createClass({
+export default class SinglePhoto extends Component {
   render() {
     const { postId } = this.props.params
     const i = this.props.posts.findIndex((post) => post.code === postId);
@@ -17,6 +17,4 @@ const Single = React.createClass({
       </div>
     )
   }
-})
-
-export default Single;
+}
