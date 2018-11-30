@@ -3,7 +3,7 @@
 @import '_animations.styl'
 
 body
-  background offwhite
+  background eggshell
 
 .photo-grid
   display flex
@@ -16,6 +16,11 @@ body
   flex-wrap wrap
   max-width 1200px
 
+pre .grid-photo
+  object-fit contain
+  max-height 300px
+  background-color black
+
 .grid-figure
   flex-basis calc(33.333% - 4rem)
   flex-grow 1
@@ -24,7 +29,7 @@ body
   padding 2rem
   border 1px solid lightgray
   background white
-  box-shadow 0 0 0 5px rgba(0,0,0,0.03);
+  box-shadow 0 0 0 5px rgba(0,0,0,0.10);
   position relative
 
 .single-photo
@@ -52,6 +57,7 @@ body
   margin-left -2rem
   margin-top -2rem
   max-width none
+
 
 // Comments
 .remove-comment

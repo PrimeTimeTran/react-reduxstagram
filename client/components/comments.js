@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Comments = React.createClass({
   renderComment(comment, i) {
@@ -13,12 +13,12 @@ const Comments = React.createClass({
     )
   },
   handleSubmit(e) {
-    e.preventDefault();
-    const { postId } = this.props.params;
-    const author = this.refs.author.value;
-    const comment = this.refs.comment.value;
-    this.props.addComment(postId, author, comment);
-    this.refs.commentForm.reset();
+    e.preventDefault()
+    const { postId } = this.props.params
+    const author = this.refs.author.value
+    const comment = this.refs.comment.value
+    this.props.addComment(postId, author, comment)
+    this.refs.commentForm.reset()
   },
   render() {
     return (
@@ -34,4 +34,4 @@ const Comments = React.createClass({
   }
 })
 
-export default Comments;
+export default Comments
