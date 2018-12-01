@@ -16,7 +16,7 @@ Reduxstgram is a project built to master the fundamentals of React & Redux.
 2. Run `npm start` to start the express server.
 
 ## Production Build
-Run `npm build` to create a distro folder and a bundle.js file.
+Run `npm run-script build` to create a distro folder and a bundle.js file.
 
 
 ## Tips

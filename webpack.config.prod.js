@@ -1,11 +1,11 @@
-var path = require('path');
-var webpack = require('webpack');
+var path = require('path')
+var webpack = require('webpack')
 
 module.exports = {
   devtool: 'source-map',
   entry: [
-    
-    './client/reduxstagram'
+
+    './client/index'
   ],
   output: {
     path: path.join(__dirname, 'dist'),
@@ -16,7 +16,7 @@ module.exports = {
     new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.DefinePlugin({
       'process.env': {
-        'NODE_ENV': "'production'"
+        'NODE_ENV': 'production'
       }
     }),
     new webpack.optimize.UglifyJsPlugin({
@@ -34,11 +34,11 @@ module.exports = {
       include: path.join(__dirname, 'client')
     },
     // CSS
-    { 
-      test: /\.styl$/, 
+    {
+      test: /\.styl$/,
       include: path.join(__dirname, 'client'),
       loader: 'style-loader!css-loader!stylus-loader'
     }
     ]
   }
-};
+}
