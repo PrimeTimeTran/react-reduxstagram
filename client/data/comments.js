@@ -11,17 +11,23 @@ const comments = {
       'user':  'chungklee'
     },
     {
-      'text': '#adults',
-      'user':  'jdaveknox'
+      'text': '#Beach_Life',
+      'user':  'QuyMonster'
     },
     {
-      'text': '@jdaveknox yes!',
-      'user':  'wesbos'
+      'text': '@chungklee yes',
+      'user':  'PrimeTimeTran'
     },
     {
-      'text': '😍 love Hamilton!',
+      'text': '😍 CoderSchool memories!',
       'user':  'willowtreemegs'
     }
+  ],
+  'BAcJeJrQca9': [
+    {
+      'text': 'So dep!',
+      'user':  'Diep'
+    },
   ],
   'BAPIPRjQce9': [
     {
@@ -37,7 +43,7 @@ const comments = {
       'user':  'henrihelvetica'
     },
     {
-      'text': '@wesbos 👍 my daughter is a pancake eating machine!',
+      'text': '@PrimeTimeTran 👍 my daughter is a pancake eating machine!',
       'user':  'brentoage'
     },
     {
@@ -50,11 +56,11 @@ const comments = {
     },
     {
       'text': '@gobananna I just made a batch and put in in a FIFO bottle. Keeps in the fridge for a few days.',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     },
     {
       'text': '@haaps thanks! It\'s a Jenn air - so nice to cool with!',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     },
     {
       'text': 'Where would you go and for how long, if you had location freedom? - Greg 🌎',
@@ -63,7 +69,7 @@ const comments = {
   ],
   'BAF_KY4wcRY': [
     {
-      'text': 'Looking great Wes! I\'d like to see the other side of the room too.',
+      'text': 'Looking great Loi! I\'d like to see the other side of the room too.',
       'user':  'axcdnt'
     },
     {
@@ -80,19 +86,19 @@ const comments = {
     },
     {
       'text': '@axcdnt that is where I put all the junk. I\'ll have to clean that side too @henrihelvetica no podcast yet! @pmgllc ohh yeah! @alexbaumgertner yep - the main one is 4K - I\'m loving it',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     },
     {
       'text': 'That chrome pillow. 😉',
       'user':  'imagesofthisandthat'
     },
     {
-      'text': '@wesbos is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.',
+      'text': '@PrimeTimeTran is that the Dell 4k? The MacBook Pro powers it well? I also have a Retina™ / x1 setup as well. Very handy.',
       'user':  'henrihelvetica'
     },
     {
       'text': '#minimalsetups',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     }
   ],
   '_4jHytwcUA': [
@@ -123,7 +129,7 @@ const comments = {
   ],
   '_ep9kiQcVy': [
     {
-      'text': 'All bundled up!  Where ya goin?',
+      'text': 'When you guys going to make it back to Colorado?',
       'user':  'sophie_and_sadie'
     }
   ],
@@ -138,11 +144,14 @@ const comments = {
     },
     {
       'text': '@tjholowaychuk2 haha yes! Old school stylez!',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     }
   ],
   '_KnU7MwceA': [
-
+    {
+      'text': '👌 Loi',
+      'user':  'ThuyHo'
+    },
   ],
   '_HMejJQcY5': [
     {
@@ -170,7 +179,7 @@ const comments = {
       'user':  'lucascaixeta'
     }
   ],
-  '1rhFawccs': [
+  '-1rhFawccs': [
     {
       'text': 'What\'s your lighting source?',
       'user':  'seth_mcleod'
@@ -184,25 +193,31 @@ const comments = {
       'user':  'stolinski'
     }
   ],
-  'pjx-gQcVi': [
-
-  ],
-  'oTZ0zQcWt': [
+  '-pjx-gQcVi': [
     {
-      'text': 'Love the coat! Where\'s it from? Lol',
-      'user':  '_lindersss'
+      'text': 'Whatd the manatee do to you?',
+      'user':  'LinhDinh'
     }
   ],
-  'mxKQoQcQh': [
-
+  '-oTZ0zQcWt': [
+    {
+      'text': 'Love the coat! Where\'s it from? Lol',
+      'user':  'LinhDinh'
+    }
+  ],
+  '-mxKQoQcQh': [
+    {
+      'text': 'Looking handesome boys',
+      'user':  'LinhDinh'
+    }
   ],
   'hZh6IQcfN': [
     {
-      'text': 'What do we gotta do to get some : )? @wesbos',
+      'text': 'What do we gotta do to get some : )? @PrimeTimeTran',
       'user':  'jonasbad'
     },
     {
-      'text': 'Might drop by today - real quick. Trade you an illegal pin for these? Lol. @wesbos',
+      'text': 'Might drop by today - real quick. Trade you an illegal pin for these? Lol. @PrimeTimeTran',
       'user':  'henrihelvetica'
     },
     {
@@ -211,7 +226,7 @@ const comments = {
     },
     {
       'text': '@jonasbad @datamoshr I\'ll post them up on my blog soon!',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     },
     {
       'text': 'Want',
@@ -226,7 +241,7 @@ const comments = {
       'user':  'gabrielvieira.me'
     }
   ],
-  'fasqlQceO': [
+  '-fasqlQceO': [
     {
       'text': 'Where\'s lux at? 💤?',
       'user':  'henrihelvetica'
@@ -236,7 +251,7 @@ const comments = {
       'user':  'danielleplas'
     }
   ],
-  'VBgtGQcSf': [
+  '-VBgtGQcSf': [
     {
       'text': '@dogsandbrew',
       'user':  'likea_bos'
@@ -250,17 +265,17 @@ const comments = {
       'user':  'trevorb_91'
     }
   ],
-  'FpTyHQcau': [
+  '-FpTyHQcau': [
     {
-      'text': '@kaitbos  that vest!!! 😍',
-      'user':  'courtneyeveline'
+      'text': '@TuanAnh <3 that vest!!! 😍',
+      'user':  'PrimeTimeTran'
     },
     {
       'text': 'I just love her! @kaitbos',
       'user':  'kalibrix'
     },
     {
-      'text': '@courtneyeveline I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She\'s so fancy 😉',
+      'text': '@PrimeTimeTran I know! My friend gave it to her and I wanted a matching one but only Lux can pull it off. She\'s so fancy 😉',
       'user':  'kaitbos'
     },
     {
@@ -285,7 +300,7 @@ const comments = {
     },
     {
       'text': '@br11x I did a teespring a few months ago - maybe I\'ll do another one soon',
-      'user':  'wesbos'
+      'user':  'PrimeTimeTran'
     }
   ],
   'B3eiIwcYV': [
