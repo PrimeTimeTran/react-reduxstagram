@@ -3,13 +3,17 @@
 @import '_animations.styl'
 
 body
-  background eggshell
+  background-color white
 
 .photo-grid
   display flex
   flex-wrap wrap
   max-width 1200px
   margin 0 auto
+  .comments
+    max-width 40%
+  .grid-figure
+    max-width 60%
 
 .photo-grid > pre
   display:flex
@@ -32,25 +36,25 @@ pre .grid-photo
   box-shadow 0 0 0 5px rgba(0,0,0,0.10);
   position relative
 
-.single-photo
-  @extend .grid-figure
-  max-width 900px
-  margin 0 auto
-  display flex
-  background white
-  .grid-figure
-    box-shadow none
-    margin 0 2rem 0 0
-    border 0
-    padding 0
-    flex 1 0 60%
-    max-width 60%
-  .comments
-    flex 1 0 40%
-    max-width 40%
-  .grid-photo
-    width 100%
-    margin 0
+// .single-photo
+//   @extend .grid-figure
+//   max-width 900px
+//   margin 0 auto
+//   display flex
+//   background white
+//   .grid-figure
+//     box-shadow none
+//     margin 0 2rem 0 0
+//     border 0
+//     padding 0
+//     flex 1 0 60%
+//     max-width 60%
+//   .comments
+//     flex 1 0 40%
+//     max-width 40%
+//   .grid-photo
+//     width 100%
+//     margin 0
 
 .grid-photo
   width calc(100% + 4rem)
@@ -72,7 +76,7 @@ pre .grid-photo
   border-bottom 1px solid lightgrey
   padding 0.5rem 0
   p
-    font-size 1.2rem
+    font-size 2.0rem
     margin 0
   strong
     color blue
@@ -106,7 +110,6 @@ pre .grid-photo
   top 50%
   pointer-events none
 
-
 /*
   Buttons
 */
@@ -135,6 +138,7 @@ button, .button
 /*
   Cowboy style speech bubble - you should probably use an SVG for this if you are doing more icons.
 */
+
 .speech-bubble
   size = 1.25rem
   width size * 1.2
@@ -143,6 +147,7 @@ button, .button
   display inline-block
   border-radius 50%
   position relative
+  margin-right 10px
   &:after
     display inline-block
     position absolute

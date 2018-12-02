@@ -25,8 +25,12 @@ const comments = {
   ],
   'BAcJeJrQca9': [
     {
-      'text': 'So dep!',
+      'text': 'So handsome boys!',
       'user':  'Diep'
+    },
+    {
+      'text': 'Thank you nguoi dep @Diep!',
+      'user':  'PrimeTimeTran'
     },
   ],
   'BAPIPRjQce9': [
@@ -101,13 +105,13 @@ const comments = {
       'user':  'PrimeTimeTran'
     }
   ],
-  '_4jHytwcUA': [
+  '4jHytwcUA': [
     {
       'text': 'that is the sound of success!',
       'user':  'mdxprograms'
     }
   ],
-  '_zbaOlQcbn': [
+  'zbaOlQcbn': [
     {
       'text': 'Did she get to eat her letter?',
       'user':  'pathiebert'
@@ -117,7 +121,7 @@ const comments = {
       'user':  'kaitbos'
     }
   ],
-  '_rmvQfQce8': [
+  'rmvQfQce8': [
     {
       'text': 'A+',
       'user':  'mrjoedee'
@@ -127,13 +131,13 @@ const comments = {
       'user':  'jrtashjian'
     }
   ],
-  '_ep9kiQcVy': [
+  'ep9kiQcVy': [
     {
       'text': 'When you guys going to make it back to Colorado?',
       'user':  'sophie_and_sadie'
     }
   ],
-  '_XpJcrwcSn': [
+  'XpJcrwcSn': [
     {
       'text': 'Super congrats! That\'s wicked cool and looks great.',
       'user':  'pmgllc'
@@ -147,13 +151,13 @@ const comments = {
       'user':  'PrimeTimeTran'
     }
   ],
-  '_KnU7MwceA': [
+  'KnU7MwceA': [
     {
       'text': '👌 Loi',
       'user':  'ThuyHo'
     },
   ],
-  '_HMejJQcY5': [
+  'HMejJQcY5': [
     {
       'text': '👌',
       'user':  't_volpe'
@@ -163,7 +167,7 @@ const comments = {
       'user':  'imagesofthisandthat'
     }
   ],
-  '_Fq2zmwcaz': [
+  'Fq2zmwcaz': [
     {
       'text': '😍',
       'user':  'melsariffodeen'
@@ -173,13 +177,13 @@ const comments = {
       'user':  'ka11away'
     }
   ],
-  '_A2r0aQcfD': [
+  'A2r0aQcfD': [
     {
       'text': 'Uhu!',
       'user':  'lucascaixeta'
     }
   ],
-  '-1rhFawccs': [
+  '1rhFawccs': [
     {
       'text': 'What\'s your lighting source?',
       'user':  'seth_mcleod'
@@ -193,19 +197,23 @@ const comments = {
       'user':  'stolinski'
     }
   ],
-  '-pjx-gQcVi': [
+  'pjx-gQcVi': [
     {
       'text': 'Whatd the manatee do to you?',
       'user':  'LinhDinh'
     }
   ],
-  '-oTZ0zQcWt': [
+  'oTZ0zQcWt': [
     {
-      'text': 'Love the coat! Where\'s it from? Lol',
+      'text': 'He doesnt look happy to be with you @PrimeTimeTran',
       'user':  'LinhDinh'
+    },
+    {
+      'text': '😥',
+      'user':  'PrimeTimeTran'
     }
   ],
-  '-mxKQoQcQh': [
+  'mxKQoQcQh': [
     {
       'text': 'Looking handesome boys',
       'user':  'LinhDinh'
@@ -241,7 +249,7 @@ const comments = {
       'user':  'gabrielvieira.me'
     }
   ],
-  '-fasqlQceO': [
+  'fasqlQceO': [
     {
       'text': 'Where\'s lux at? 💤?',
       'user':  'henrihelvetica'
@@ -251,7 +259,7 @@ const comments = {
       'user':  'danielleplas'
     }
   ],
-  '-VBgtGQcSf': [
+  'VBgtGQcSf': [
     {
       'text': '@dogsandbrew',
       'user':  'likea_bos'
@@ -265,7 +273,7 @@ const comments = {
       'user':  'trevorb_91'
     }
   ],
-  '-FpTyHQcau': [
+  'FpTyHQcau': [
     {
       'text': '@TuanAnh <3 that vest!!! 😍',
       'user':  'PrimeTimeTran'

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Photo from './Photo'
 
-import Comments from './comments'
+import Comments from './Comments'
 
 export default class SinglePhoto extends Component {
   render() {
