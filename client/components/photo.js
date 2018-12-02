@@ -4,12 +4,16 @@ import CSSTransitionGroup from 'react-addons-css-transition-group'
 
 export default class Photo extends Component {
   render() {
-    const { post, i, comments } = this.props
+    const {
+      i,
+      post,
+      comments
+    } = this.props
 
     return (
       <figure className='grid-figure'>
         <div className='grid-photo-wrap'>
-          <Link to={`/view/${post.code}`}>
+          <Link to={`/${post.code}`}>
             <img src={post.display_src} alt={post.caption} className='grid-photo' />
           </Link>
           <CSSTransitionGroup transitionName='like'
@@ -22,7 +26,7 @@ export default class Photo extends Component {
           <p>{post.caption}</p>
           <div className='control-buttons'>
             <button onClick={this.props.increment.bind(null, i)} className='likes'>❤️ {post.likes}</button>
-            <Link className='button' to={`/view/${post.code}`}>
+            <Link className='button' to={`/${post.code}`}>
               <span className='comment-count'>
               <span className='speech-bubble'> </span>
                 {comments[post.code] ? comments[post.code].length : 0}
