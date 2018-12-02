@@ -5,8 +5,8 @@ const Comments = React.createClass({
     return(
       <div className='comment' key={i}>
         <p>
-          <strong>{
-            comment.user}
+          <strong>
+            {comment.user}
           </strong>
           {comment.text}
           <button

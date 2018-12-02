@@ -1,42 +1,42 @@
 const posts = [
    {
       'code': 'BAcyDyQwcXX',
-      'caption': 'CoderSchool trip to Vung Tau',
+      'caption': 'CoderSchool summer trip 2017 to Vung Tau, Vietnam',
       'likes': 56,
       'id': '1161022966406956503',
       'display_src': 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/20994342_1345704272215927_8876289011243514454_n.jpg?_nc_cat=110&_nc_ht=scontent.fsgn2-3.fna&oh=25648f3a6bdc457fd5dd002671310385&oe=5C9FBF15'
    },
    {
       'code': 'BAcJeJrQca9',
-      'caption': 'Beer on Ta Hien in Hanoi',
+      'caption': 'Night out drinking beer on Ta Hien street in Hanoi, Vietnam',
       'likes': 59,
       'id': '1160844458347054781',
       'display_src': 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/15317899_10205644998684260_4435986108572815131_n.jpg?_nc_cat=111&_nc_ht=scontent.fsgn2-4.fna&oh=1e4dc58e176df728748e93e6f7c7c5f7&oe=5CA1DF86'
    },
    {
       'code': 'BAF_KY4wcRY',
-      'caption': 'Nights out in Chicago',
+      'caption': 'Saturday night out in Chicago, Illinois before leaving the states',
       'likes': 79,
       'id': '1154606670337393752',
       'display_src': 'https://scontent.fsgn2-2.fna.fbcdn.net/v/t31.0-8/12593801_10153975112254359_6013721414145854817_o.jpg?_nc_cat=102&_nc_ht=scontent.fsgn2-2.fna&oh=0c9f4c767a35ebf570befc677eb9b976&oe=5CABA2C3'
    },
    {
       'code': 'BAPIPRjQce9',
-      'caption': 'Florida State gameday',
+      'caption': 'Florida State Gameday against Miami',
       'likes': 47,
       'id': '1157179863266871229',
       'display_src': 'https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/12141669_10153763045309359_6423713091304647252_n.jpg?_nc_cat=107&_nc_ht=scontent.fsgn2-1.fna&oh=23459bf4711e09569a87890f71ca999c&oe=5C6AD6BC'
    },
    {
       'code': '-hZh6IQcfN',
-      'caption': 'Khanh Hoa Vietnam with friends and family',
+      'caption': 'Khanh Hoa Vietnam with friends and family. This is a province of Vietnam',
       'likes': 66,
       'id': '1126293663140399053',
       'display_src': 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t31.0-8/11270258_10153372844064359_7651762423538443401_o.jpg?_nc_cat=106&_nc_ht=scontent.fsgn2-3.fna&oh=f99c3fb1140db81954991cce12d613eb&oe=5CAA49E9'
    },
    {
       'code': '-B3eiIwcYV',
-      'caption': 'Monkey Island in Vietnam. 🇻🇳',
+      'caption': 'Monkey Island in Vietnam 🇻🇳. Locals call it "Dao Khi" which means "Monkey Island"',
       'likes': 33,
       'id': '1117418173361145365',
       'display_src': 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/11204964_982091361825319_7866671286906271405_n.jpg?_nc_cat=109&_nc_ht=scontent.fsgn2-4.fna&oh=ffb4d6431aaece38fa976a5baa7624d3&oe=5C7353FB'
@@ -46,7 +46,7 @@ const posts = [
       'caption': 'Me and my neice',
       'likes': 30,
       'id': '1162418651480049646',
-      'display_src': 'https://scontent.fsgn2-4.fna.fbcdn.net/v/t35.0-12/1373606_10151720972411238_2090532673_o.jpg?_nc_cat=111&_nc_ht=scontent.fsgn2-4.fna&oh=c24fe839f1be96d77a5e79866ff2ff31&oe=5C02C38E'
+      'display_src': 'https://i.imgur.com/WFUMFsI.jpg'
    },
    {
       'code': 'BAAJqbOQcW5',
